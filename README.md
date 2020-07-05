@@ -35,7 +35,7 @@ for the 3 questions, we arrived at the following conclusions:
 
 
 
-The blog is written on the following [link](https://medium.com/@dan7cor/as-a-software-engineer-is-usa-a-better-place-to-migrate-than-europe-3198aa329be8?sk=a5c08b5a4492d1838ee8891a01acf5e9)
+The blog is written on the following [link](https://medium.com/@venugoogly415/2a35e6fe22e5)
 
 
 Finally, the readme format:
