@@ -35,7 +35,7 @@ for the 3 questions, we arrived at the following conclusions:
 
 
 
-The blog is written on the following [link](https://medium.com/@venugoogly415/2a35e6fe22e5)
+The blog is written on the following [link](https://medium.com/@venugoogly415/as-a-software-engineer-is-usa-a-better-place-to-immigrate-than-europe-2a35e6fe22e5) 
 
 
 Finally, the readme format:
